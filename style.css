@@ -42,7 +42,6 @@ a {
 	color: gainsboro;
 }
 
-footer{
-	margin-bottom: 2%;
-	margin-top: 3%;
+a:hover {
+	color: aliceblue;
 }
